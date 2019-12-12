@@ -1,14 +1,11 @@
 ---
 name: Mini Talk
 about: Proponi una sessione di 15-30 minuti
-title: 'Title'
+title: ''
 assignees: ''
-
 ---
 
-**Titolo**
+## Speaker
 
-**Speaker**
-
-**Abstract**
+## Abstract
 
